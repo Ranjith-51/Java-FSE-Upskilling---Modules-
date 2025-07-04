@@ -6,7 +6,7 @@ Includes solutions to **Modules 1–3**.
 
 ---
 
-## 📌 Technologies Used
+## 📌 Tools and Technologies Used
 
 - **HTML5, CSS3, JavaScript**
 - **Bootstrap 5**
