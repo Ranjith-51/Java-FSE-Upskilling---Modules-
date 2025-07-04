@@ -100,3 +100,4 @@ For clarifications, suggestions, or collaboration, feel free to connect via GitH
 ---
 
 © 2025 Community Portal — Built using HTML, Bootstrap, and JavaScript.
+© ANSI SQL, CORE JAVA IDE
