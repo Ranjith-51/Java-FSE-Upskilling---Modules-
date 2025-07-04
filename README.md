@@ -2,28 +2,7 @@
 
 This repository contains my consolidated work for the **Java Full Stack Engineering (FSE) Upskilling Program** under **Cognizant Digital Nurture 4.0**.
 
-Includes solutions to **Modules 1–3** and a mini-project titled **Community Event Portal**.
-
----
-
-## 🛠 Project: Community Event Portal
-
-A responsive, Bootstrap 5-based web portal built for managing and showcasing community events.
-
-### 🌐 Key Features
-
-- 📅 **Event Registration** — User-friendly form to register for events.
-- 🔐 **Login Form** — Clean login interface using Bootstrap floating inputs.
-- 🎞️ **Event Video Preview** — Embedded video trailers to promote events.
-- 📸 **Gallery** — Responsive grid layout for displaying event images.
-- 📍 **Geolocation** — Locate nearby events using the browser’s geolocation API *(JavaScript logic required)*.
-- ❤️ **Feedback** — Collect and display user feedback and ratings.
-- 🧑 **Profile Card** — Showcasing the event coordinator or organizer.
-- 🔔 **Subscribe Modal** — Popup modal for newsletter/email alerts.
-- ❓ **FAQ Accordion** — Interactive questions using Bootstrap accordion.
-- 💸 **Pricing Table** — Display of event ticket pricing using styled layouts.
-- 📣 **Social Media Icons** — Integrated Bootstrap social icon buttons.
-- 📬 **Contact Section** — Basic support and contact information.
+Includes solutions to **Modules 1–3**.
 
 ---
 
@@ -33,12 +12,14 @@ A responsive, Bootstrap 5-based web portal built for managing and showcasing com
 - **Bootstrap 5 (via CDN)**
 - **Bootstrap Icons**
 - **JavaScript / jQuery**
+- **Java Language**
+- **ANSI SQL**
 
 ---
 
 ## 📂 Folder Structure
 ```
-/project-root
+/Module 1
 │
 ├── css/
 │ ├── style.css
@@ -52,15 +33,20 @@ A responsive, Bootstrap 5-based web portal built for managing and showcasing com
 │
 ├── scss/
 │ └── custom.scss
-│
-├── node_modules/ # if Bootstrap is installed via npm
-│
 ├── index.html # Landing page
 ├── help.html # Optional help/FAQ page
 ├── main.js # JavaScript logic
 ├── package.json # NPM configuration
 ├── package-lock.json
-└── README.md
+
+/Module 2 - ANSI SQL
+│
+├── ANSI SQL QUERY SOLUTIONS
+
+/Module 3 - Core JAVA
+│
+├── Core Java Exercises
+
 ```
 ---
 
