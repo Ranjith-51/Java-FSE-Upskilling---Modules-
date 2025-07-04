@@ -8,12 +8,12 @@ Includes solutions to **Modules 1–3**.
 
 ## 📌 Technologies Used
 
-- **HTML5 / CSS3**
-- **Bootstrap 5 (via CDN)**
-- **Bootstrap Icons**
-- **JavaScript / jQuery**
-- **Java Language**
-- **ANSI SQL**
+- **HTML5, CSS3, JavaScript**
+- **Bootstrap 5**
+- **ANSI SQL (compatible with MySQL, PostgreSQL)**
+- **Java SE 8+**
+- **IDEs: VS Code, IntelliJ IDEA, Eclipse**
+- **MySQL Workbench**
 
 ---
 
@@ -48,15 +48,6 @@ Includes solutions to **Modules 1–3**.
 ├── Core Java Exercises
 
 ```
----
-
-## ⚙️ Setup Instructions
-
-1. **Clone** or **download** this repository.
-2. Open `index.html` in any modern web browser.
-3. Ensure image paths are correct if moved to a new directory.
-4. *(Optional)* Use a local server (e.g., **Live Server** in VS Code) for better performance.
-
 ---
 
 ## 🔷 Module Highlights
