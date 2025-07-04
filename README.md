@@ -19,7 +19,7 @@ Includes solutions to **Modules 1–3**.
 
 ## 📂 Folder Structure
 ```
-/Module 1
+/Module 1 - Bootstrap, HTML, CSS, Javascript
 │
 ├── css/
 │ ├── style.css
